@@ -1,5 +1,5 @@
 # CSCI-442-Project-3-Parallel-Zip
-##### using the C programming language
+##### using C
 
 ## Utilized the POSIX-threads library to employ multiple threads, which accelerates computational tasks 
 
