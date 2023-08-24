@@ -1,5 +1,5 @@
 # CSCI-442-Project-3-Parallel-Zip
-###### * Using C programming language 
+###### * Using C programming language in Linux
 ###### * I'd be happy to provide source code for interviews!
 ###### * The course project code is not allowed to be published online，but I am happy to share the ideas of implementation and running results of my algorithm!
 ## Utilized the POSIX-threads library to employ multiple threads, which accelerates computational tasks 
